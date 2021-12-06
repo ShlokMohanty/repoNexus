@@ -20,9 +20,9 @@
 </repositories>
 <distributionManagement>
   <snapshotRepository>
-    <id>upes</id>
-    <name>upes</name>
-    <url>http://localhost:8081/repository/upes/</url>
+    <id>calculator_java</id>
+    <name>calculator_java</name>
+    <url>http://localhost:8081/repository/calculator_java/</url>
   </snapshotRepository>
 </distributionManagement>
 </project>
